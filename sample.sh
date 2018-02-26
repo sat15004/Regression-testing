@@ -1,2 +1,1 @@
 echo "Welcome"
-Regression testing
